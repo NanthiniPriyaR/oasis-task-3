@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-image: url(sun.jpg);
+    background-position: center;
+    margin-top: 8%;
+    margin-left: 10%;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+h2{
+    color:rgb(17, 0, 83);
+    font-display: 29%;
+    padding-inline: 20px;
+    align-items: center;
+}
+.button-tool1{
+    border-radius: 120px;
+    padding-right:  18px;
+    background-color: rgb(101, 219, 237);
+    color: #0a0606;
+    font-size: 15px;
+    
+    
+}
+.button-tool2{
+    border-radius: 120px;
+    padding-right:  18px;
+    background-color: rgb(101, 219, 237);
+    color: #100c0c;
+    font-size:15px ;
+
+}
+.button-tool{
+    border-radius: 120px;
+    background-color:rgb(29, 122, 236);
+    color:whitesmoke;
+}
+.box {
+    width: 35%;
+    height: 32px;
+    border-radius: 15px;
+}
+.div{
+    margin-left: 30px;
+}
